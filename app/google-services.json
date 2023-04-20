@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914024212996",
+    "project_id": "fir-app-btu-2",
+    "storage_bucket": "fir-app-btu-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914024212996:android:2a000603bb76d7735fe351",
+        "android_client_info": {
+          "package_name": "com.example.firebaseAppBTU2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914024212996-gbeigbc0ipgro6q0p5v148smiv686ko3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamZ7und4GwtyVXFQjJP_eB_--m5ebK6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914024212996-gbeigbc0ipgro6q0p5v148smiv686ko3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
